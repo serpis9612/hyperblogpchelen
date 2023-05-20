@@ -9,11 +9,7 @@ html{
 }
 
 body{
-<<<<<<< HEAD
-    color: blue;
-=======
-    color: red;
->>>>>>> cabecera
+    color: grey;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
 }
