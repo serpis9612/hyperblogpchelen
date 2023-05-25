@@ -51,3 +51,12 @@ body{
     
     font-size: 3rem;
 }
+
+#footer{  
+    text-align: center;
+    padding: 1rem;    
+    font-size: 3rem;
+    color: black;
+    background-color: blueviolet;
+    box-shadow: 0rem 0.5rem 3rem 0rem rgba(0,0,0,0.75);
+}
